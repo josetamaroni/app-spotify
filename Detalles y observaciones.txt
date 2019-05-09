@@ -1,0 +1,5 @@
+
+- Se creo un pipe llamado: noimage, para filtrar los arreglos de imagenes vacias que vienen de spotify.
+  comando: ng g p pipes/noimage
+
+- Se creo un componente llamado: loading para verificar si la data esta cargando o lista para mostrar.
